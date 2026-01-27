@@ -1,36 +1,18 @@
-# Pool Junky (PJ)
+# 🚀 Pool Junky (PJ) - Flare AI DeFi Vaults
 
-Pool Junky is a DeFi protocol built on the Flare Network, focused on routing and optimizing yield across FTSO, FAssets, and XRP‑aligned strategies.[web:494][web:479]
+[![Pool Junky Whitepaper v2.4](https://github.com/[Rpolanco75]/[Pool-Junky-PJ--Flare]/raw/main/PJ_Whitepaper_v2.4.pdf)](https://github.com/[Rpolanco75]/[Pool-Junky-PJ-Flare]/blob/main/PJ_Whitepaper_v2.4.md)
 
-## Overview
+## 📋 Status
+**Live**: Flare Mainnet (Chain ID 14)  
+**Token**: [PJ Token Explorer](https://flare-explorer.flare.network/address/0x4Da79e72eA38902E59760028b751D9C1Eb34c51B)  
+**Supply**: 1 Billion PJ (deployed)  
+**Whitepaper**: [v2.4 Grant-Ready](https://github.com/[Rpolanco75]/[Pool-Junky-PJ--Flare]/raw/main/PJ_Whitepaper_v2.4.pdf)  
 
-- **Chain (v1):** Flare (EVM)  
-- **Token:** PJ (Pool Junky)  
-- **Supply:** 1,000,000,000 PJ (fixed)  
-- **Core focus:** Real yield on Flare via FTSO delegation, FAssets, and XRPFi‑style liquidity.[web:494][web:480]
+## 🔗 Quick Links
+| Link | Explorer |
+|------|----------|
+| [PJ Token](https://flare-explorer.flare.network/address/0x4Da79e72eA38902E59760028b751D9C1Eb34c51B) | Flare Mainnet |
+| [Routescan](https://flarex.io/address/0x4Da79e72eA38902E59760028b751D9C1Eb34c51B) | Backup |
+| [Whitepaper PDF](https://github.com/[Rpolanco75]/[Pool-Junky-PJ--Flare]/raw/main/PJ_Whitepaper_v2.4.pdf) | v2.4 Download |
 
-The protocol uses specialized agents, including **Pacioli (Accountant Agent)**, to track performance and cash flows across strategies.
-
-## Token Allocation (High Level)
-
-- 20% – Genesis Liquidity Pool  
-- 25% – Community Emissions  
-- 15% – Flare Ecosystem (FTSO, FAssets, grants, XRPFi)  
-- 20% – Treasury  
-- 10% – Team (vesting)  
-- 5% – Strategic  
-- 5% – Public TGE
-
-## Whitepaper
-
-The current draft whitepaper is available in this repository as a PDF (see the `/` root). It describes:
-
-- Problem & motivation on Flare / XRP DeFi  
-- Protocol and agent design (including Pacioli)  
-- Tokenomics and roadmap
-
-## Status
-
-- ✅ Whitepaper draft uploaded  
-- ⏳ PJToken contract: planned for Flare Coston2 testnet deployment (waiting for faucet cooldown)  
-- ⏳ Audit and mainnet deployment: to be scheduled
+**Next**: Flare Grant → SushiSwap LP → Vault Deployment
