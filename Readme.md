@@ -5,7 +5,9 @@
 ## 📋 Status
 **Live**: Flare Mainnet (Chain ID 14)  
 **Token**: [PJ Token Explorer](https://flare-explorer.flare.network/address/0x4Da79e72eA38902E59760028b751D9C1Eb34c51B)  
-**Supply**: 1 Billion PJ (deployed)  
+**Supply**: 1 Billion PJ (deployed)
+**Deploy Tx**: [0xeca75c072c5c1d03cb3de7006bedab4a3a776625a00666d49435ce052da744df](https://flare-explorer.flare.network/tx/0xeca75c072c5c1d03cb3de7006bedab4a3a776625a00666d49435ce052da744df).[query]
+​
 **Whitepaper**: [v2.4 Grant-Ready](https://github.com/[Rpolanco75]/[Pool-Junky-PJ--Flare]/raw/main/PJ_Whitepaper_v2.4.pdf)  
 
 ## 🔗 Quick Links
